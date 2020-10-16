@@ -59,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602855584070</updated>
-      <workItem from="1602855597546" duration="3938000" />
+      <workItem from="1602855597546" duration="4595000" />
     </task>
     <servers />
   </component>
@@ -72,6 +72,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2658" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602859717948">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2658" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602859717948" />
     <state width="1877" height="96" key="GridCell.Tab.0.bottom" timestamp="1602858781056">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
