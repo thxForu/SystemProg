@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\xavav\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\xavav\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_systemProg.-925533823.00" t="ExcludeRecursive" />
+    <e p="C:\Users\xavav\Desktop\Uni\Pattrns\systemProg" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="systemProg" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="systemProg.csproj" t="IncludeRecursive" />
+        <e p="WinApi" t="Include">
+          <e p=".idea" t="Include">
+            <e p=".idea.WinApi.dir" t="Include">
+              <e p=".idea" t="Include">
+                <e p="contentModel.xml" t="Include" />
+                <e p="encodings.xml" t="Include" />
+                <e p="indexLayout.xml" t="Include" />
+                <e p="modules.xml" t="Include" />
+                <e p="projectSettingsUpdater.xml" t="Include" />
+                <e p="workspace.xml" t="Include" />
+              </e>
+              <e p="riderModule.iml" t="Include" />
+            </e>
+          </e>
+          <e p="bin" t="Include">
+            <e p="Debug" t="Include">
+              <e p="WinApi.dll" t="Include" />
+              <e p="WinApi.pdb" t="Include" />
+            </e>
+            <e p="Release" t="Include" />
+          </e>
+          <e p="obj" t="Include">
+            <e p="Debug" t="Include">
+              <e p="DesignTimeResolveAssemblyReferencesInput.cache" t="Include" />
+              <e p="TempPE" t="Include" />
+              <e p="WinApi.csproj.CoreCompileInputs.cache" t="Include" />
+              <e p="WinApi.csproj.FileListAbsolute.txt" t="Include" />
+              <e p="WinApi.csprojAssemblyReference.cache" t="Include" />
+              <e p="WinApi.dll" t="Include" />
+              <e p="WinApi.pdb" t="Include" />
+            </e>
+          </e>
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+          <e p="WinApi.csproj" t="Include" />
+          <e p="WinApiFuncs.cs" t="Include" />
+        </e>
+      </e>
+      <e p="systemProg.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
