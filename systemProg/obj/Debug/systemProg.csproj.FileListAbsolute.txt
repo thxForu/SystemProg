@@ -1,0 +1,6 @@
+C:\Users\xavav\Desktop\Uni\Pattrns\systemProg\systemProg\obj\Debug\systemProg.csprojAssemblyReference.cache
+C:\Users\xavav\Desktop\Uni\Pattrns\systemProg\systemProg\obj\Debug\systemProg.csproj.CoreCompileInputs.cache
+C:\Users\xavav\Desktop\Uni\Pattrns\systemProg\systemProg\bin\Debug\systemProg.exe
+C:\Users\xavav\Desktop\Uni\Pattrns\systemProg\systemProg\bin\Debug\systemProg.pdb
+C:\Users\xavav\Desktop\Uni\Pattrns\systemProg\systemProg\obj\Debug\systemProg.exe
+C:\Users\xavav\Desktop\Uni\Pattrns\systemProg\systemProg\obj\Debug\systemProg.pdb

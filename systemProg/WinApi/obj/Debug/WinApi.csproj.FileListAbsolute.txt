@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Системне програмування\WinApi\bin\Debug\WinApi.dll
+C:\Users\User\Desktop\Системне програмування\WinApi\bin\Debug\WinApi.pdb
+C:\Users\User\Desktop\Системне програмування\WinApi\obj\Debug\WinApi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Системне програмування\WinApi\obj\Debug\WinApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Системне програмування\WinApi\obj\Debug\WinApi.dll
+C:\Users\User\Desktop\Системне програмування\WinApi\obj\Debug\WinApi.pdb
+C:\Users\User\Desktop\SystemProgramming\WinApi\bin\Debug\WinApi.dll
+C:\Users\User\Desktop\SystemProgramming\WinApi\bin\Debug\WinApi.pdb
+C:\Users\User\Desktop\SystemProgramming\WinApi\obj\Debug\WinApi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SystemProgramming\WinApi\obj\Debug\WinApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SystemProgramming\WinApi\obj\Debug\WinApi.dll
+C:\Users\User\Desktop\SystemProgramming\WinApi\obj\Debug\WinApi.pdb
